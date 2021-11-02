@@ -4,9 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": {"name": "Rodrigo Fernandez",
-	    "email": "ing.rodrigo.fernandez@gmail.com",
-        "url": "https://github.com/rodrigoEsquel/"},
+	"author": "Rodrigo Fernandez",
 	"scripts": {
 		"start": "node server.js"
 	},
