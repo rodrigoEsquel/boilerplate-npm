@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Rodrigo Fernandez",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"author": "Rodrigo Fernandez",
 	"scripts": {
 		"start": "node server.js"
 	},
